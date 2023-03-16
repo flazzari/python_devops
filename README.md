@@ -23,3 +23,4 @@ After performig Github actions, there is the option to create a 'Status Badge' t
 [![Test Multiple Python Versions](https://github.com/flazzari/python_devops/actions/workflows/main.yml/badge.svg)](https://github.com/flazzari/python_devops/actions/workflows/main.yml)
 
 
+# RESUME VIDEO AT 1:10:00
