@@ -12,7 +12,7 @@
   - `requirements.txt` contains all the needed libraries while `Makefile` conatains the process for installing them
   - `make install` starts the proccess of intalling all the libraries
   - `pip freeze` and in requirements.txt write the version for compatibility
-
+  - `make lint` probably static code analisys
 
 ### Github Actions
 
