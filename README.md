@@ -3,7 +3,7 @@
 # python_devops
 [Source https://www.youtube.com/watch?v=kwZNpieUreA]
 
-  ### I want to learn cloud development best practices and deepen Python language.
+  ### Learning cloud development best practices and deepen Python language.
 
 ### Cloud structure project
 1. Create virtaul environment: `virtualenv ~/.venv`
