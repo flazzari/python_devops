@@ -3,6 +3,7 @@
 
   ### I want to learn cloud development best practices and deepen Python language.
 
+### Cloud structure project
 1. Create virtaul environment: `virtualenv ~/.venv`
 2. Edit `~/.bashrc`: adding as last line `source ~/.venv/bin/activate`, when opening the terminal, the virtual environment starts.
 3. Libraries and their installation process
