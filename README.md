@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/flazzari/python_devops/actions/workflows/main.yml/badge.svg)](https://github.com/flazzari/python_devops/actions/workflows/main.yml)
+
 # python_devops
 [Source https://www.youtube.com/watch?v=kwZNpieUreA]
 
