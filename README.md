@@ -10,4 +10,9 @@
   - `requirements.txt` contains all the needed libraries while `Makefile` conatains the process for installing them
   - `make install` starts the proccess of intalling all the libraries
   - `pip freeze` and in requirements.txt write the version for compatibility
-  
+
+
+### Github Actions
+
+Created my own Github Action `main.yml` with instruction to test different python versions. Foreach version it runs the commands inside the makefile.
+
