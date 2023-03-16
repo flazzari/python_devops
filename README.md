@@ -16,3 +16,8 @@
 
 Created my own Github Action `main.yml` with instruction to test different python versions. Foreach version it runs the commands inside the makefile.
 
+#### Status Badge
+After performig Github actions, there is the option to create a 'Status Badge' that resume the situation of the project like this:
+[![Test Multiple Python Versions](https://github.com/flazzari/python_devops/actions/workflows/main.yml/badge.svg)](https://github.com/flazzari/python_devops/actions/workflows/main.yml)
+
+
